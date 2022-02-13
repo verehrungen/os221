@@ -5,3 +5,7 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
+
+ZCZC W00 150 L02 Class
+ZCZC W00 25 L10 Assignment #00
+ZCZC W00 005 L22 Quiz (week 00)
