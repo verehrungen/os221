@@ -13,20 +13,11 @@ permalink: LINKS/
 
 # LINKS
 
-1. [One](https://en.wikipedia.org/wiki/1)<br>
-StarBucks ipsum dolor J.CO Do Not!
-McD ipsum dolor Wendy's Burger King.
-KFC urna libero, in purus hana masa, sore wa tempura hokben.
+1. [Basic Bash Scripting Tutorial](https://linuxconfig.org/bash-scripting-tutorial)<br>
+A decent write-up that you can use as a starting point for your Bash scripting journey.
 
-2. [Two](https://en.wikipedia.org/wiki/2)<br>
-Sweet roll lollipop tootsie roll cheesecake marshmallow macaroon chocolate bar biscuit candy.
-Donut chocolate cake sugar plum icing dragée pie.
-Chocolate marzipan jelly-o soufflé donut pudding apple pie jelly beans.
-
-3. [Three](https://en.wikipedia.org/wiki/3)<br>
-Liquorice bonbon lemon drops marshmallow.
-Sweet roll gummies gummies jelly tiramisu chocolate fruitcake.
-Jelly chocolate jelly beans marzipan brownie bonbon muffin.
+2. [Beginners Guide to SSH](https://www.youtube.com/watch?v=qWKK_PNHnnA)<br>
+Fun introduction video to SSH, complete with an engaging teacher and amusing graphics to help you learn.
 
 <br>
 <hr>
